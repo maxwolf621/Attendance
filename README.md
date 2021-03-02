@@ -1,6 +1,8 @@
 # Attendance
 
-> [more details](https://hackmd.io/@maxWolf/BJ2-u-5G_)
+> [More details](https://hackmd.io/@maxWolf/BJ2-u-5G_)
+
+
 ## Usage 
  
 To take the face samples
