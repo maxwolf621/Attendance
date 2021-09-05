@@ -23,8 +23,7 @@ def home():
 @app.route("/login", methods=['GET', 'POST'])
 def login():
     '''
-        For employee that do the login
-        It would 
+        login 
         1. check validity of email such as ~@gamil.com etc...
         2. via digest to compare user input password and password in the DB
     '''
@@ -58,7 +57,8 @@ def logout():
 
 def save_picture(form_picture):
     '''
-    save picture of employee in the directory ../static/profile_pics
+    save picture of employee in the directory 
+    `../static/profile_pics`
     '''
     random_hex = secrets.token_hex(8)
     _, f_ext = os.path.splitext(form_picture.filename)
