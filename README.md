@@ -22,11 +22,14 @@ python3 run.py
 
 ## Demo
 
-##### Post 
-![](https://i.imgur.com/jDsvSS3.png)
+##### Face Recognition     
+![image](https://user-images.githubusercontent.com/68631186/135931182-3dbc7286-b854-4606-b117-e117c7291d27.png)   
 
-##### Check Attendance
-![](https://i.imgur.com/vqiGxoi.png)
+##### Post   
+![](https://i.imgur.com/jDsvSS3.png)  
+
+##### Check Employee's Attendance   
+![](https://i.imgur.com/vqiGxoi.png)   
 
 
 ## Design Concept
