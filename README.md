@@ -1,26 +1,34 @@
-# Attendance
+# Employee Attendance Record
 
-> [More details](https://hackmd.io/@maxWolf/BJ2-u-5G_)
+Raspiberry pi 4 as Interface executes facial Recognition to record the employee's Attendance
 
+The Employee can also make a post, check Attendance and contact system administrator on the Website.
 
-## Usage 
- 
-To take the face samples
+## Linux Command 
+
 ```bash
+# Take the face samples
 python3 samplefecth.py
-```
 
-To train the samples 
-```bash
+# To train the samples 
 python3 FaceTraining.py
-```
 
-To open up Face Recognition to record the attendence
-```bash
+# open up Face Recognition to record the attendence
 python3 Face_Sets.py
-```
 
-To open up the website
-```bash
+# boost flask 
 python3 run.py
 ```
+
+## Demo
+
+##### Post 
+![](https://i.imgur.com/jDsvSS3.png)
+
+##### Check Attendance
+![](https://i.imgur.com/vqiGxoi.png)
+
+
+## Design Concept
+![](https://i.imgur.com/JXrLRfk.png)
+
