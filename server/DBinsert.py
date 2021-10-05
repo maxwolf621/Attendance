@@ -1,6 +1,6 @@
 import sqlite3
 ''' 
-    record the time of employee's attendence
+    record employee's attendence
 '''
 
 class dbinsert:
