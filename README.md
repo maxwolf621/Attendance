@@ -1,8 +1,8 @@
 # Employee Attendance Record
 
-Raspiberry pi 4 as Interface executes facial Recognition to record the employee's Attendance
+Executes facial Recognition to record the employee's Attendance via Rasperry pi 4
 
-The Employee can also make a post, check Attendance and contact system administrator on the Website.
+The Employee can also make a post, check Attendance and contact system administrator on the Web-site.
 
 ## Linux Command 
 
